@@ -1,1 +1,1 @@
-# Solarized Dark Theme
+# miguelslp Theme
